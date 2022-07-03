@@ -9,7 +9,7 @@
 # Tecnologies that i learned in my process until now:
     # Lenguages for web development: 🔴 HTML && 🔵 CSS  && 🟡 Javascript
     
-    # Frameworks that i used based on CSS: 🟣 Bootstrap && 🔵 Tailwind CSS
+    # Frameworks that i used based on CSS: 🟪 Bootstrap &&  🟦 Tailwind CSS
     # Frameworks that i used based on Javascript: 🟦 React Js && 🟩 Node Js
     
     # Also i have some experience and knowledge about DB (Data Base) with MySql and Mongo DB. 🎈
