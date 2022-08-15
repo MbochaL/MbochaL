@@ -12,19 +12,19 @@
         🔵 CSS
         🟡 Javascript
     
-    ## Frameworks that i used based on CSS: 
+    # Frameworks that i used based on CSS: 
     
         🟪 Bootstrap
         🟦 Tailwind CSS  
         ⬜ Material UI
         
-    ## Frameworks that i used based on Javascript:
+    # Frameworks that i used based on Javascript:
     
         🟦 React Js  
         ⬜ Next Js 
         🟩 Node Js
     
-    ## Also i have some experience and knowledge about DB (Data Base) with 
+    # Also i have some experience and knowledge with Data Base(DB) with:
     
         🔵MySql
         🟢Mongo DB
