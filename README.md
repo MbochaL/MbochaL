@@ -4,7 +4,7 @@
 
 - Also i'm a Front-End developer With React Js 👨‍💻. Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
 
-# Tecnologies that i learned in my process until now:
+#Technologies I have learned so far:
 
     # Lenguages for web development: 
     
@@ -12,19 +12,19 @@
         🔵 CSS
         🟡 Javascript
     
-    # Frameworks that i used based on CSS: 
+    # Frameworks that i use based on CSS: 
     
         🟪 Bootstrap
         🟦 Tailwind CSS  
         ⬜ Material UI
         
-    # Frameworks that i used based on Javascript:
+    # Frameworks that i use based on Javascript:
     
         🟦 React Js  
         ⬜ Next Js 
         🟩 Node Js
     
-    # Also i have some experience and knowledge with Data Base(DB) with:
+    # Also i have some experience and knowledge with Data Base(DB):
     
         🔵MySql
         🟢Mongo DB
