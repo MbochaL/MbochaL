@@ -15,6 +15,7 @@
 ```js
 const MBocha_ = {
     tecnhologies: 'web',
+    Dev: ['Front-End', 'Back-End'],
     passions: ['performance web','web development'],
     tools: ['React', 'Node','style-components', 'Git', 'Docker']
 }
