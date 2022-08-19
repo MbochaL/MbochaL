@@ -1,8 +1,17 @@
 ### Hi there, I'm Martin Bosch 👋🙋‍♂️
 
-- I'm originally from Corrientes, Argentina🏠 and I'm 21 years old 🙇‍♂️.
+- I'm from Corrientes, Argentina🏠
+- I'm 21 years old 🙇‍♂️.
+- Also i'm a Front-End developer With React Js 👨‍💻. 
+- Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
 
-- Also i'm a Front-End developer With React Js 👨‍💻. Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
+```js
+const MBocha_ = {
+    tecnhologies: 'web',
+    passions: ['performance web','web development'],
+    tools: ['React', 'Node','style-components', 'Git', 'Docker']
+}
+```
 
 #Technologies I have learned so far:
 
@@ -30,7 +39,10 @@
         🟢Mongo DB
     
     
-### I hope someday i will reach into something more professional with my passion about programming.
+ You can find me 📍:
+ - [twitter] {https://twitter.com/Mbosch_1}
+ - [linkedIn] {https://www.linkedin.com/in/martin-bosch-200b20225/}
+ - [instagram] {https://www.instagram.com/martin.bosch1/}
     
 
 
