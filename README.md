@@ -16,7 +16,7 @@ const MBocha_ = {
 ```  
 
 ##Technologies:
-
+   <div>
     # Lenguages for web development: 
     
         🔴 HTML 
@@ -31,15 +31,16 @@ const MBocha_ = {
         
     # Javascript Frameworks:
     
-    <div>
+    
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    </div>
+    
     
     # Also i have some experience and knowledge with Data Base(DB):
     
         🔵MySql
         🟢Mongo DB
+    </div>
     
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbochaL&show_icons=true&theme=gruvbox)
