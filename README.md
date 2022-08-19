@@ -44,7 +44,7 @@ const MBocha_ = {
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
     
     
-   - Also i have some experience and knowledge with Data Base(DB):
+   - Data Base (DB):
     
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
