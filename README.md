@@ -16,25 +16,26 @@ const MBocha_ = {
 ```  
 
 ##Technologies:
-    # Lenguages for web development: 
+
+    - Lenguages for web development: 
     
         🔴 HTML 
         🔵 CSS
         🟡 Javascript
     
-    # CSS Frameworks: 
+    - CSS Frameworks: 
     
         🟪 Bootstrap
         🟦 Tailwind CSS  
         ⬜ Material UI
         
-    # Javascript Frameworks:
+    - Javascript Frameworks:
     
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     
     
-    # Also i have some experience and knowledge with Data Base(DB):
+    - Also i have some experience and knowledge with Data Base(DB):
     
         🔵MySql
         🟢Mongo DB
