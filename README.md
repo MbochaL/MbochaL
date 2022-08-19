@@ -13,6 +13,12 @@ const MBocha_ = {
 }
 ```
 
+You can find me 📍:
+ - [twitter]{https://twitter.com/Mbosch_1}
+ - [linkedIn]{https://www.linkedin.com/in/martin-bosch-200b20225/}
+ - [instagram]{https://www.instagram.com/martin.bosch1/}
+    
+
 #Technologies I have learned so far:
 
     # Lenguages for web development: 
@@ -39,11 +45,7 @@ const MBocha_ = {
         🟢Mongo DB
     
     
- You can find me 📍:
- - [twitter]{https://twitter.com/Mbosch_1}
- - [linkedIn]{https://www.linkedin.com/in/martin-bosch-200b20225/}
- - [instagram]{https://www.instagram.com/martin.bosch1/}
-    
+ 
 
 
 
