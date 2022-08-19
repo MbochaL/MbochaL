@@ -16,7 +16,6 @@ const MBocha_ = {
 ```  
 
 ##Technologies:
-   <div>
     # Lenguages for web development: 
     
         🔴 HTML 
@@ -40,7 +39,6 @@ const MBocha_ = {
     
         🔵MySql
         🟢Mongo DB
-    </div>
     
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbochaL&show_icons=true&theme=gruvbox)
