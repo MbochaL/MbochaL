@@ -15,7 +15,7 @@ const MBocha_ = {
 }
 ```  
 
-#Technologies I have learned so far:
+##Technologies:
 
     # Lenguages for web development: 
     
@@ -23,17 +23,18 @@ const MBocha_ = {
         🔵 CSS
         🟡 Javascript
     
-    # Frameworks that i use based on CSS: 
+    # CSS Frameworks: 
     
         🟪 Bootstrap
         🟦 Tailwind CSS  
         ⬜ Material UI
         
-    # Frameworks that i use based on Javascript:
+    # Javascript Frameworks:
     
-        🟦 React Js  
-        ⬜ Next Js 
-        🟩 Node Js
+    <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    </div>
     
     # Also i have some experience and knowledge with Data Base(DB):
     
