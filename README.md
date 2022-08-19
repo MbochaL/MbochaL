@@ -1,11 +1,16 @@
 ### Hi there, I'm Martin Bosch 👋🙋‍♂️
 
+
 ## About me:
 
 - I'm from Corrientes, Argentina🏠
 - I'm 21 years old 🙇‍♂️.
-- Also i'm a Front-End developer With React Js 👨‍💻. 
+- I study Lic. En Sistemas at the UNNE 📚.
+- I'm a Front-End developer With React Js and Next Js 👨‍💻. 
+- But also i'm a Back-End developer with Node Js and Express Js 👨‍💻.
 - Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
+
+
 
 ```js
 const MBocha_ = {
@@ -14,6 +19,7 @@ const MBocha_ = {
     tools: ['React', 'Node','style-components', 'Git', 'Docker']
 }
 ```  
+
 
 ##Technologies:
 
@@ -34,6 +40,7 @@ const MBocha_ = {
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
     
     
    - Also i have some experience and knowledge with Data Base(DB):
@@ -44,6 +51,8 @@ const MBocha_ = {
    - Others:
         
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
     
     
     
