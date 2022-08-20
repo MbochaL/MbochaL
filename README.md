@@ -22,7 +22,7 @@ const MBocha_ = {
 ```  
 
 
-##Technologies:
+## Technologies:
 
 
    - Lenguages for web development: 
