@@ -72,8 +72,14 @@ const MBocha_ = {
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
         
 
+
+
+
+
     
         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbochaL&show_icons=true&theme=gruvbox)
+        
+        
         
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MbochaL&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
