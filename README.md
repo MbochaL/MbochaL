@@ -74,11 +74,23 @@ const MBocha_ = {
 
 
 
+
+
+    
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbochaL&show_icons=true&theme=gruvbox)
+        
+        
+        
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MbochaL&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
    ## You can find me:
    
    <a href='https://www.linkedin.com/in/martin-bosch-200b20225/' target = "_blank">
        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
    </a>
+   <h3>martinbosch1996@gmail.com</h3>
     
 
 
