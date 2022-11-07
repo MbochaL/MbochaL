@@ -87,10 +87,11 @@ const MBocha_ = {
 
    ## You can find me:
    
+   📩 <p>martinbosch1996@gmail.com</p>
    <a href='https://www.linkedin.com/in/martin-bosch-200b20225/' target = "_blank">
        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
    </a>
-   <h3>martinbosch1996@gmail.com</h3>
+   <p>martinbosch1996@gmail.com</p>
     
 
 
