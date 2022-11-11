@@ -7,7 +7,6 @@
 - I'm 21 years old 🙇‍♂️.
 - I study Lic. En Sistemas at the UNNE 📚.
 - I'm a Front-End developer With React Js - Next Js - React Native 👨‍💻. 
-- But also i'm a Back-End developer with Node Js and Express Js 👨‍💻.
 - Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
 
 
