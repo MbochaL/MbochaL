@@ -6,15 +6,15 @@
 - I'm from Corrientes, Argentina🏠
 - I'm 21 years old 🙇‍♂️.
 - I study Lic. En Sistemas at the UNNE 📚.
-- I'm a Front-End developer With React Js - Next Js - React Native 👨‍💻. 
+- I'm a FullStack developer With React Js - Next Js - Node Js - React Native 👨‍💻. 
 - Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
 
 
 
 ```js
 const MBocha_ = {
-    tecnhologies: 'web',
-    Dev: ['Front-End', 'Back-End'],
+    tecnhologies: 'web', 'mobile',
+    Dev: ['Front-End', 'Back-End', 'Mobile Dev'],
     passions: ['performance web','web development'],
     tools: ['React', 'Node','style-components', 'Git', 'Docker']
 }
@@ -46,6 +46,7 @@ const MBocha_ = {
         
    - Front-End Frameworks:
   
+        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
