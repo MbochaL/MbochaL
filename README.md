@@ -4,7 +4,7 @@
 ## About me:
 
 - I'm from Corrientes, Argentina🏠
-- I'm 21 years old 🙇‍♂️.
+- I'm 23 years old 🙇‍♂️.
 - I study Lic. En Sistemas at the UNNE 📚.
 - I'm a FullStack developer With React Js - Next Js - Node Js - React Native 👨‍💻. 
 - Actively learning and getting better with my skills, but with a lot of proyects done with this tecnologie 💆‍♂️.
